@@ -1,0 +1,1 @@
+#in repl(run in terminal) we print 5 ka table 
