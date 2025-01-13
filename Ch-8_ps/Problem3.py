@@ -1,0 +1,5 @@
+# how to not print a new line by using print()
+print("a")
+print("b")
+print("c", end="")
+print("d")
